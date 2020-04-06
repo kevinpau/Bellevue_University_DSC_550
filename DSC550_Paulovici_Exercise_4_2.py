@@ -17,7 +17,7 @@
 
 #%%[markdown]
 # ### Scenario
-# For this assignment I will use movie comments to determine if the viewers have a positive or negative view of the movie
+# For this assignment I will use movie comments to determine if the viewers have a positive or negative view of the movie. Movie reviews are common and widely used on certain sites. Having highly positive reviews can act as a marketing tool and help influence potential watchers to go spend their money on it.
 
 #%%
 from sklearn.feature_extraction.text import CountVectorizer
